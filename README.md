@@ -10,4 +10,4 @@ Each project is organized in its own directory, containing the project files, do
 
 ## Contribution
 
-Thank you for your interest in my prompt engineering projects! At the moment, I am the sole contributor to this repository. However, if you have any suggestions, improvements, or would like to collaborate on a project, feel free to [contact me](mailto:your-email@example.com).
+Thank you for your interest in my prompt engineering projects! At the moment, I am the sole contributor to this repository. However, if you have any suggestions, improvements, or would like to collaborate on a project, feel free to [contact me](mailto:wahidsadikjishan@gmail.com).
